@@ -1,5 +1,5 @@
-/*PRN: 24030331372901
- Name: Siddhant Chandrakant Bhanat
+/*PRN: 24030331378014
+ Name: Anup Nandkumar Naik
  Title: Average via user input
  Date: 
  */
